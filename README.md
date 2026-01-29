@@ -129,12 +129,12 @@ The model is trained on a comprehensive phishing URL dataset containing:
 2. **Create Virtual Environment** (Recommended)
    ```bash
    # Windows
-   python -m venv venv
+   python -m venv myvenv
    venv\Scripts\activate
 
    # macOS/Linux
-   python3 -m venv venv
-   source venv/bin/activate
+   python3 -m venv myvenv
+   source myvenv/bin/activate
    ```
 
 3. **Install Dependencies**
@@ -172,8 +172,8 @@ The model is trained on a comprehensive phishing URL dataset containing:
 
 3. **View Results**
    - The system will display whether the URL is:
-     - ✅ **Legitimate** - Safe to visit
-     - ⚠️ **Phishing** - Potentially dangerous
+     - ✅ **Legitimate** - This is a phishing website ! ATTENTION !
+     - ⚠️ **Phishing** - This is a healthy website <3
 
 ### Example
 
@@ -197,7 +197,7 @@ https://www.google.com
 **Output:**
 ```
 ✅ Legitimate URL
-This URL appears to be safe.
+This is a healthy website <3
 ```
 
 ### Using the Jupyter Notebook
