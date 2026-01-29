@@ -224,60 +224,6 @@ The models have been evaluated on test datasets with the following metrics:
 - Low false positive rate ensures legitimate sites are not incorrectly flagged
 - High recall rate means most phishing attempts are successfully identified
 
-## 📸 Screenshots
-
-### Main Interface
-*[Add screenshot of your web interface here]*
-
-### Phishing Detection Result
-*[Add screenshot of phishing detection result]*
-
-### Legitimate URL Result
-*[Add screenshot of legitimate URL result]*
-
-## 🔮 Future Enhancements
-
-- [ ] **Deep Learning Integration**: Implement LSTM or BERT-based models for improved accuracy
-- [ ] **Browser Extension**: Develop Chrome/Firefox extensions for seamless protection
-- [ ] **API Development**: Create RESTful API for third-party integration
-- [ ] **Real-time Updates**: Automatic model retraining with latest phishing data
-- [ ] **Multi-language Support**: Interface available in multiple languages
-- [ ] **URL Reputation Database**: Integration with VirusTotal, Google Safe Browsing
-- [ ] **Mobile Application**: Android/iOS app for mobile protection
-- [ ] **Detailed Threat Analysis**: Provide comprehensive reports on detected threats
-- [ ] **User Feedback System**: Allow users to report false positives/negatives
-- [ ] **Email Integration**: Scan URLs in emails automatically
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit Your Changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the Branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Areas for Contribution
-- Improving model accuracy
-- Adding new features to the web interface
-- Creating documentation and tutorials
-- Bug fixes and performance optimization
-- Dataset expansion and cleaning
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Salwa Sellame**
@@ -285,25 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@salwasellame1-max](https://github.com/salwasellame1-max)
 - Project Link: [Phishing Website Detection System](https://github.com/salwasellame1-max/Phishing-website-detection-system)
 
-## 🙏 Acknowledgments
-
-- PhishTank for providing phishing URL datasets
-- UCI Machine Learning Repository for reference datasets
-- Scikit-learn community for excellent ML tools
-- Flask community for the lightweight web framework
-- All contributors and supporters of this project
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/salwasellame1-max/Phishing-website-detection-system/issues) page
-2. Create a new issue with detailed description
-3. Contact the author through GitHub
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please consider giving it a star! It helps others discover the project and motivates continued development.
 
 ---
 
